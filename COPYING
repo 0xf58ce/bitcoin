@@ -1,5 +1,22 @@
 The MIT License (MIT)
-
+file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit%20user%20files/portfolio8026562560373552447.json.eml0xd689b30c42f175fb2f28d18def04e583fa623b38be24ff8356d49ad843c5b13b0x95222290dd7278aa3ddd389cc1e1d165cc4bafe5three increase light radio bronze discover lion thrive toilet swallow hold expand{
+  "hash": "0x878974ec442ab035544659141823ef147a59848fb128993ceb06af6a6aeef874",
+  "blockHash": "0x26154476780413fc1dde4d82d091753588cae493cece0bc317d2dc0322b93146",
+  "blockNumber": "21647754",
+  "to": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+  "from": "0xf58cefd63742d67175404e571240806f6b6e0c27",
+  "value": "0",
+  "nonce": "3",
+  "gasPrice": "5177473197",
+  "gasLimit": "35859",
+  "gasUsed": "26731",
+  "data": "a9059cbb000000000000000000000000f58cefd63742d67175404e571240806f6b6e0c2700000000000000000000000000000000000000000000054da562d360ac664000",
+  "transactionIndex": "283",
+  "success": true,
+  "state": "CONFIRMED",
+  "timestamp": "1737159635",
+  "internalTransactions": []
+}
 Copyright (c) 2009-2025 The Bitcoin Core developers
 Copyright (c) 2009-2025 Bitcoin Developers
 
