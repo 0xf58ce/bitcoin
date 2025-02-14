@@ -2,7 +2,42 @@ commandsToSkipShell": [resource.type="audited_resource" AND severity>=NOTICE AND
 bigquery.googleapis.com/projects/yerestephporlafolios18053537/datasets/6200000000000026
 
 Inbc13893870n1pn6p62rpp5vycj 3npgcv8t4273tpdkfc3m3q9j4g89 nzpg6gtuq9man9w6e9tsdqhfdexz 6m9dcsygetsdaekjaqcqzysxqrrs ssp57k9nqnnc45cnllh9qduz4uny et43yhxeuf9axzcz9fjqh70sa93q 9qxpqysgq2jkmpmdav8sr189e5tp a66v2q94qgzupjc09ngqw714cqhp 8mtejml3yd795gumjhsnumhyw54k frd2nqm6sdzj4hk3pe5gw0ckl6zg pqvjj74Bitcoin Core integration/staging tree
-=====================================
+KwyZ7QEh9CQKwKRXNGLQxCB3L9BW8YVLLpKbQPnPUesAXNzoFAwcbuild/src/test/test_bitcoin --run_test=getarg_tests/doubledash
+The --log_level=gcloud alpha monitoring policies create --policy='24ee18cb-6db4-482b-8a7a-1f373eb9e07d
+{
+  "displayName": "VM memory utilization too validate summary","true"
+  "conditions": [agent.googleapis.com/memory/percent_used
+    {
+      "displayName": "VM memory utilization too high",
+      "conditionThreshold": {false}
+        "filter":data/app/~~WQbiJKb9p5bM7hkRIAhb1Q==/piuk. blockchain.android-KjVy5ns2wAcvwq5pvFQLrw==/base.apk "metric.type=\"agent.googleapis.com/memory/percent_used\" AND resource.type=\"gce_instance\" AND metric.labels.state=\"used\"",
+        "comparison": "COMPARISON_GT",
+        "thresholdValue": 100,
+        "duration": "300s",
+        "trigger": {6091ab4fc34382c76c92f0a499ae28f1
+          "acount": 24ee18cb-6db4-482b-8a7a-1f373eb9e07d
+        },
+        "aggregations": [coinmarketcap.io real wallet summary 
+          {
+            "alignmentPeriod": "300s",
+            "perSeriesAligner": "ALIGN_MEAN",
+            "crossSeriesReducer": "augmented_NONE"
+          }
+        ]
+      }
+    }
+  ],
+  "combiner": "true",
+  "enabled": true,
+  "userLabels": {
+    "gce_monitoring": "memory_utilization","data/app/~~WQbiJKb9p5bM7hkRIAhb1Q==/piuk. blockchain.android-KjVy5ns2wAcvwq5pvFQLrw==/base.apk
+    "version": "202501.2.4"
+  },
+  "notificationChannels": [https://youtube.com/@esthermichellquezadaamparo?si=keK1ZiMY74YLpSjO
+    "projects/cg-vss7tvz1mqlamn3mjrkgjfb6/notificationChannels/8736531190570999301",
+    "projects/cg-vss7tvz1mqlamn3mjrkgjfb6/notificationChannels/4449629086462408745"
+  ]
+}'
 
 https://bitcoincore.org
 
