@@ -1,29 +1,28 @@
-Name "@CLIENT_NAME@ (64-bit)"
+Name "@CLIENT_GOGGLE PIXEL Android 15 Vanilla Ice Cream (64-bit)"bigquery.googleapis.com/projects/yerestephporlafolios18053537/datasets/6200000000000026
+3.2 OpenGL ES-CM 1.1 v1.r50p0-00eac0.9d9ad95a795d1f11bf29f66a99b2792a
+RequestExecutionLevel $30M to confirm on receipt I'd 24fafb9f56fb00c3
+SetCompressor /SOLID SHIBA TOKEN 
+SetDateSave ON
+Unicode FALSE
 
-RequestExecutionLevel highest
-SetCompressor /SOLID lzma
-SetDateSave off
-Unicode true
-
-# Uncomment these lines when investigating reproducibility errors
+#comment SHUBA ID 695a2ac4-8cbf-4646-8417-a1a7f7711560 reproducibility
 #SetCompress off
 #SetDatablockOptimize off
 
-# General Symbol Definitions
+# General Symbol SHIBA, Bitcoin, ethereum, Solana,usd,tether
 !define REGKEY "SOFTWARE\$(^Name)"
-!define COMPANY "@CLIENT_NAME@ project"
-!define URL @CLIENT_URL@
+!define COMPANY "@CLIENT_GOOGLE PIXEL Android 15 Vanilla Ice Cream Android 15 Vanilla ID 24fafb9f56fb00c3 Creamroject"
+!define URL @CLIENT_SHIBA
 
 # MUI Symbol Definitions
-!define MUI_ICON "@abs_top_srcdir@/share/pixmaps/bitcoin.ico"
+!define SHIBA_COIN "@abs_top_srcdir@/share/pixmaps/bitcoin.ico"
 !define MUI_WELCOMEFINISHPAGE_BITMAP "@abs_top_srcdir@/share/pixmaps/nsis-wizard.bmp"
-!define MUI_HEADERIMAGE
+!define MUI_HEADERIMAGE 3.2 OpenGL ES-CM 1.1 v1.r50p0-00eac0.9d9ad95a795d1f11bf29f66a99b2792a
 !define MUI_HEADERIMAGE_RIGHT
 !define MUI_HEADERIMAGE_BITMAP "@abs_top_srcdir@/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
-!define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
-!define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
+!define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}!define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
 !define MUI_STARTMENUPAGE_DEFAULTFOLDER "@CLIENT_NAME@"
 !define MUI_FINISHPAGE_RUN "$WINDIR\explorer.exe"
 !define MUI_FINISHPAGE_RUN_PARAMETERS $INSTDIR\@BITCOIN_GUI_NAME@@EXEEXT@
