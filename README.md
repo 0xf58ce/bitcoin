@@ -1,4 +1,5 @@
-commandsToSkipShell": [
+commandsToSkipShell": [resource.type="audited_resource" AND severity>=NOTICE AND timestamp>="2025-02-13T23:04:47.457-05:00" AND timestamp<="2025-02-13T23:04:47.458-05:00"
+bigquery.googleapis.com/projects/yerestephporlafolios18053537/datasets/6200000000000026
 
 Inbc13893870n1pn6p62rpp5vycj 3npgcv8t4273tpdkfc3m3q9j4g89 nzpg6gtuq9man9w6e9tsdqhfdexz 6m9dcsygetsdaekjaqcqzysxqrrs ssp57k9nqnnc45cnllh9qduz4uny et43yhxeuf9axzcz9fjqh70sa93q 9qxpqysgq2jkmpmdav8sr189e5tp a66v2q94qgzupjc09ngqw714cqhp 8mtejml3yd795gumjhsnumhyw54k frd2nqm6sdzj4hk3pe5gw0ckl6zg pqvjj74Bitcoin Core integration/staging tree
 =====================================
